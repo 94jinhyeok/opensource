@@ -1,4 +1,9 @@
+import java.util.*;
+public class patientManagement extends patient {
+Scanner scanner = new Scanner(System.in);
 
-public class patientManagement {
+Vector<patient> v = new Vector<patient>();
+
+
 
 }
